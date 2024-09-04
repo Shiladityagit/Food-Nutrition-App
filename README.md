@@ -1,4 +1,5 @@
-# This project is uploaded in Hugging Face Space. Check it now : https://huggingface.co/spaces/Shiladitya123Mondal/Food-Nutrition-app
+# This project is uploaded in Hugging Face Space. Check it now : 
+https://huggingface.co/spaces/Shiladitya123Mondal/Food-Nutrition-app
 
 # Food Identification and Nutrition Info
 This application identifies food items from an uploaded image and retrieves their nutritional information, including calories, fat content, protein, and more. The model leverages a pre-trained Vision Transformer (ViT) for image classification, and the nutritional data is fetched using the Nutrition API.
